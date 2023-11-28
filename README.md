@@ -7,6 +7,9 @@ If you find this project useful, please give it a star. Thanks! ⭐
 ## Creational
 Creational Design Patterns are concerned with the way in which objects are created. They reduce complexities and instability by creating objects in a controlled manner. The new operator is often considered harmful as it scatters objects all over the application.
 
+### Builder
+Builder is a creational design pattern that lets you construct complex objects step by step. The pattern allows you to produce different types and representations of an object using the same construction code.
+
 ## Structural
 Structural design patterns are those that simplify the design of large object structures by identifying relationships between them. They describe common ways of composing classes and objects so that they become repeatable as solutions.
 
