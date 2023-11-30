@@ -19,6 +19,9 @@ Decorator pattern allows a user to add new functionality to an existing object w
 ## Behavioral
 Behavioral design patterns are design patterns that focus on communication between objects and the way they operate together. They aim to improve the flexibility and reuse of software systems by making the relationships between objects more dynamic.
 
+### Strategy
+The Strategy Design Pattern works by separating the behavior of an object from the object itself. The behavior is encapsulated into different strategies, each with its own implementation of the behavior. The context maintains a reference to a strategy object and interacts with it through a common interface.
+
 ## Getting Started
 - Download this Repository (and modify as needed)
 
